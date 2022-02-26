@@ -9,8 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-const gitDefinition = "Git is software made for tracking changes in files, which helps to coordinate workflows collaboratively.";
-
+const gitDefinition = "Git is software made for tracking changes in files, which helps multiple people collaborate on different files";
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -41,7 +40,7 @@ const gitCloneDefinition = "The command `git clone` essentially copies an existi
     It should be a string containing your best definition of what 'git status' does.
 */
 
-const gitStatusDefinition = "`git status` displays the current state of the working directory and allows one to see what changes have been staged, which haven't and which files are being tracked.";
+const gitStatusDefinition = "`git status` displays the current state of the working directory and allows one to see: what changes have been staged, which haven't and which files are being tracked.";
 
 //////////////////PROBLEM 6////////////////////
 /*
